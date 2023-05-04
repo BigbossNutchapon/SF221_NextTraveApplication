@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "444396768210",
+    "project_id": "nexttravel-tu",
+    "storage_bucket": "nexttravel-tu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444396768210:android:4ec9c051a0e1689654160b",
+        "android_client_info": {
+          "package_name": "kaleo.chat.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444396768210-sqokpkkoofv8u575lg2n8r1q7aev1auk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUaCQ76U2T73KoTDvWFZGrdpaADFZGDkc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444396768210-sqokpkkoofv8u575lg2n8r1q7aev1auk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "444396768210-qrlorogtj0b7mo06en676l7ed9k5jtkn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "kaleo.chat.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
